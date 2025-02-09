@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on learning more about Python and SQL
-💬 Ask me about my music and writing
-👯 I’m looking to collaborate on projects that help the envionment
+🔭 I’m currently working on learning more about Python and SQL<br />
+💬 Ask me about my music and writing<br />
+👯 I’m looking to collaborate on projects that help the envionment<br />
 <!--
 **helencaddes/helencaddes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
